@@ -1,0 +1,144 @@
+@import "tailwindcss";
+
+:root {
+  --ink-bg: #0A0909;
+  --ink-surface: #121111;
+  --ink-card: #161515;
+  --ink-card-hover: #1c1a1a;
+  --ink-border: #262423;
+  --ink-border-light: rgba(232, 223, 204, 0.12);
+  --ink-text: #E8DFCC;
+  --ink-muted: #92908A;
+  --ink-red: #C92820;
+  --ink-red-hover: #E0352B;
+}
+
+body {
+  background-color: var(--ink-bg);
+  color: var(--ink-text);
+  font-family: var(--font-sans), system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Condensed display font for editorial headings */
+.font-display {
+  font-family: var(--font-bebas), 'Bebas Neue', 'Oswald', sans-serif;
+  letter-spacing: 0.02em;
+  line-height: 0.95;
+  text-transform: uppercase;
+}
+
+/* Outlined numbers for the Four Steps section */
+.font-outline {
+  font-family: var(--font-bebas), 'Bebas Neue', sans-serif;
+  color: transparent;
+  -webkit-text-stroke: 1.5px rgba(232, 223, 204, 0.35);
+  transition: all 0.3s ease;
+}
+
+.group:hover .font-outline {
+  -webkit-text-stroke-color: var(--ink-red);
+  color: rgba(201, 40, 32, 0.15);
+}
+
+/* Corner plus markers for editorial cards */
+.corner-crosses {
+  position: relative;
+}
+.corner-crosses::before,
+.corner-crosses::after {
+  content: "+";
+  position: absolute;
+  font-family: monospace;
+  font-size: 11px;
+  color: var(--ink-muted);
+  opacity: 0.6;
+  pointer-events: none;
+}
+.corner-crosses::before {
+  top: 6px;
+  left: 6px;
+}
+.corner-crosses::after {
+  bottom: 6px;
+  right: 6px;
+}
+
+/* Marquee infinite scroll */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 30s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Looping Tattoo Loader Keyframes */
+@keyframes tattooStroke {
+  0% {
+    stroke-dashoffset: 340;
+  }
+  50% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: -340;
+  }
+}
+
+@keyframes tattooFill {
+  0%, 100% {
+    transform: scale(0.92);
+    fill: rgba(201, 40, 32, 0.05);
+    stroke: #8B1A14;
+  }
+  50% {
+    transform: scale(1.05);
+    fill: rgba(201, 40, 32, 0.85);
+    stroke: #FF3B30;
+  }
+}
+
+.animate-tattoo-stroke {
+  animation: tattooStroke 2.2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+.animate-tattoo-fill {
+  transform-origin: center;
+  animation: tattooFill 1.8s ease-in-out infinite;
+}
+
+/* Custom scrollbar for dark mood */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0909;
+}
+::-webkit-scrollbar-thumb {
+  background: #2a2726;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c92820;
+}
+
+/* Subtle selection color */
+::selection {
+  background: #c92820;
+  color: #ffffff;
+}

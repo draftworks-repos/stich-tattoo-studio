@@ -1,0 +1,6 @@
+{
+  "name": "INKED Tattoo Studio",
+  "description": "Editorial dark tattoo studio website featuring artist portfolios, style guides, recent work plates, interactive booking, and gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
