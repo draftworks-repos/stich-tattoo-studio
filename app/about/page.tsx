@@ -136,7 +136,7 @@ export default function AboutPage() {
             <div className="lg:col-span-5 relative">
               <div className="relative aspect-[3/4] w-full border border-[#262423] bg-[#161515] overflow-hidden group">
                 <Image
-                  src="https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?auto=format&fit=crop&w=1200&q=80"
+                  src="https://images.unsplash.com/photo-1699270066374-fc81f0119bff?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                   alt="Studio interior and private suite"
                   fill
                   className="object-cover contrast-110 group-hover:scale-105 transition-transform duration-700"
@@ -320,7 +320,7 @@ export default function AboutPage() {
             <div className="bg-[#121111] border border-[#262423] p-3">
               <div className="relative aspect-[4/3] w-full bg-black overflow-hidden mb-3">
                 <Image
-                  src="https://images.unsplash.com/photo-1542385151-efd9000785a0?auto=format&fit=crop&w=800&q=80"
+                  src="https://images.unsplash.com/photo-1585745422697-1b42b98aac14?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                   alt="Client consultation lounge"
                   fill
                   className="object-cover contrast-110"

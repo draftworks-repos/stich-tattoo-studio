@@ -26,7 +26,7 @@ export default function ArtistsPage() {
       <section className="relative min-h-[55vh] flex items-center border-b border-[#262423] py-20">
         <div className="absolute inset-0 z-0">
           <Image
-            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=2000&q=80"
+            src="https://images.unsplash.com/photo-1665085326519-e53effa90953?q=80&w=1033&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
             alt="Portrait of tattoo master"
             fill
             priority

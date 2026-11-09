@@ -126,7 +126,7 @@ export const ARTISTS: Artist[] = [
     fullBio:
       "Marcus specializes in hyper-realistic human and animal portraits, sculptural Greek and Renaissance motifs, and high-contrast dark surrealism. Trained classically in figurative fine art before moving to the needle, his work is known for seamless gradient transitions that maintain clarity through decades of healing.",
     portraitUrl:
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1787233794302-241d055dd11a?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     actionPhotoUrl:
       "https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?auto=format&fit=crop&w=1200&q=80",
     instagram: "@marcusreed_ink",
@@ -142,14 +142,14 @@ export const ARTISTS: Artist[] = [
       {
         title: "Serpent & Rose",
         imageUrl:
-          "https://images.unsplash.com/photo-1562962230-16e4623d36e6?auto=format&fit=crop&w=900&q=80",
+          "https://images.unsplash.com/photo-1568515045052-f9a854d70bfd?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
         style: "Black & Grey",
         placement: "Forearm & Wrist",
       },
       {
         title: "Marble Bust of Apollo",
         imageUrl:
-          "https://images.unsplash.com/photo-1611501275019-9b5cda994e8d?auto=format&fit=crop&w=900&q=80",
+          "https://images.unsplash.com/photo-1661188777365-c8c299c6e272?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
         style: "Micro Realism",
         placement: "Bicep",
       },
@@ -165,7 +165,7 @@ export const ARTISTS: Artist[] = [
     fullBio:
       "Lena graduated in botanical illustration in Berlin before pioneering ultra-delicate single needle tattooing. Her work feels weightless on the skin, honoring the body curves with subtle negative space, microscopic stippling, and organic wildflower arrangements that heal razor-sharp.",
     portraitUrl:
-      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1761277461562-a05cb891bf17?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     actionPhotoUrl:
       "https://images.unsplash.com/photo-1568515045052-f9a854d70bfd?auto=format&fit=crop&w=1200&q=80",
     instagram: "@lenavoss_lines",
@@ -181,14 +181,14 @@ export const ARTISTS: Artist[] = [
       {
         title: "Goddess Forearm",
         imageUrl:
-          "https://images.unsplash.com/photo-1568515045052-f9a854d70bfd?auto=format&fit=crop&w=900&q=80",
+          "https://images.unsplash.com/photo-1738408473671-4f634d6ee77d?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
         style: "Fine Line",
         placement: "Inner Forearm",
       },
       {
         title: "Botanical Stem & Moth",
         imageUrl:
-          "https://images.unsplash.com/photo-1542385151-efd9000785a0?auto=format&fit=crop&w=900&q=80",
+          "https://images.unsplash.com/photo-1704345910291-49168c7631b6?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
         style: "Fine Line Botanical",
         placement: "Sternum / Ribs",
       },
@@ -204,7 +204,7 @@ export const ARTISTS: Artist[] = [
     fullBio:
       "Dante honors the legacy of classic sailor and neo-traditional flash with heavy black outlines, deep saturated blackfills, and striking muted red highlights. Whether building a full sleeve from original flash sheets or creating custom daggers, eagles, and panthers, Dante builds ink that endures.",
     portraitUrl:
-      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1753259789341-808371092e19?q=80&w=388&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     actionPhotoUrl:
       "https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?auto=format&fit=crop&w=1200&q=80",
     instagram: "@dantecruz_traditional",
@@ -220,7 +220,7 @@ export const ARTISTS: Artist[] = [
       {
         title: "Flash Sheet Pair",
         imageUrl:
-          "https://images.unsplash.com/photo-1560707303-4e980ce876ad?auto=format&fit=crop&w=900&q=80",
+          "https://images.unsplash.com/photo-1627960630431-270d04164a22?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
         style: "Traditional",
         placement: "Thigh / Calves",
       },
@@ -259,7 +259,14 @@ export const ARTISTS: Artist[] = [
       {
         title: "Behind the Ear Geometry",
         imageUrl:
-          "https://images.unsplash.com/photo-1562962230-16e4623d36e6?auto=format&fit=crop&w=900&q=80",
+          "https://images.unsplash.com/photo-1558355637-e991f0422e08?q=80&w=386&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+        style: "Blackwork",
+        placement: "Cervical / Behind Ear",
+      },
+      {
+        title: "Behind the Ear Geometry",
+        imageUrl:
+          "https://images.unsplash.com/photo-1541121514895-0f36e7d38d14?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
         style: "Blackwork",
         placement: "Cervical / Behind Ear",
       },
@@ -283,7 +290,7 @@ export const TATTOO_STYLES: TattooStyle[] = [
     needleTechnique:
       "3RL to 7RL contours, 15M magnum needles for smooth water-drop washes",
     imageUrl:
-      "https://images.unsplash.com/photo-1562962230-16e4623d36e6?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1626983969036-c1ff8996c08b?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     accentIcon: "Crosshair",
     featuredArtists: ["Marcus Reed", "Kai Moreno"],
   },
@@ -355,7 +362,7 @@ export const TATTOO_STYLES: TattooStyle[] = [
     needleTechnique:
       "Round shaders for tight dotwork, large 27M magnums for saturated fields",
     imageUrl:
-      "https://images.unsplash.com/photo-1542385151-efd9000785a0?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1614174487989-10fc7b5382a9?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     accentIcon: "Hexagon",
     featuredArtists: ["Kai Moreno", "Dante Cruz"],
   },
@@ -373,7 +380,7 @@ export const TATTOO_STYLES: TattooStyle[] = [
     healingDuration: "2 weeks",
     needleTechnique: "8RL to 14RL bold liner needles, solid flat packing",
     imageUrl:
-      "https://images.unsplash.com/photo-1562962230-16e4623d36e6?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1601848714157-d845bb5c11ff?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     accentIcon: "Anchor",
     featuredArtists: ["Dante Cruz"],
   },
@@ -413,7 +420,7 @@ export const TATTOO_STYLES: TattooStyle[] = [
     healingDuration: "3 to 4 weeks",
     needleTechnique: "Dense layering and optical saturation displacement",
     imageUrl:
-      "https://images.unsplash.com/photo-1562962230-16e4623d36e6?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1519822356-4853be4346a8?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     accentIcon: "Layers",
     featuredArtists: ["Marcus Reed", "Dante Cruz"],
   },
@@ -448,7 +455,7 @@ export const RECENT_WORK_PLATES: PortfolioPiece[] = [
     isHealed: true,
     year: "2025",
     imageUrl:
-      "https://images.unsplash.com/photo-1562962230-16e4623d36e6?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1597852075234-fd721ac361d3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     featured: true,
     aspect: "wide",
   },
@@ -464,7 +471,7 @@ export const RECENT_WORK_PLATES: PortfolioPiece[] = [
     isHealed: true,
     year: "2025",
     imageUrl:
-      "https://images.unsplash.com/photo-1542385151-efd9000785a0?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1661188777365-c8c299c6e272?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     featured: true,
     aspect: "tall",
   },
@@ -480,7 +487,7 @@ export const RECENT_WORK_PLATES: PortfolioPiece[] = [
     isHealed: true,
     year: "2025",
     imageUrl:
-      "https://images.unsplash.com/photo-1562962230-16e4623d36e6?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1661188777328-0224ee116364?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     featured: true,
     aspect: "tall",
   },

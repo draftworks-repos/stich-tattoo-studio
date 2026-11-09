@@ -134,7 +134,7 @@ export default function HomePage() {
             <div className="lg:col-span-6 relative">
               <div className="relative aspect-[4/5] w-full border border-[#262423] overflow-hidden bg-[#161515] group">
                 <Image
-                  src="https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?auto=format&fit=crop&w=1200&q=80"
+                  src="https://images.unsplash.com/photo-1586243287039-23f4c8e2e7ab?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                   alt="Tattoo artist focusing on needle ink work"
                   fill
                   className="object-cover contrast-110 group-hover:scale-105 transition-transform duration-700"
@@ -509,7 +509,7 @@ export default function HomePage() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 opacity-75">
               <div className="relative h-80 sm:h-96 md:h-[460px] rounded-full overflow-hidden border border-[#2A2726]">
                 <Image
-                  src="https://images.unsplash.com/photo-1562962230-16e4623d36e6?auto=format&fit=crop&w=800&q=80"
+                  src="https://images.unsplash.com/photo-1752695360271-b7980b0efbc5?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                   alt="Tattoo piece 1"
                   fill
                   className="object-cover contrast-110"
@@ -518,7 +518,7 @@ export default function HomePage() {
               </div>
               <div className="relative h-80 sm:h-96 md:h-[460px] rounded-full overflow-hidden border border-[#2A2726] mt-8">
                 <Image
-                  src="https://images.unsplash.com/photo-1568515045052-f9a854d70bfd?auto=format&fit=crop&w=800&q=80"
+                  src="https://images.unsplash.com/photo-1645384816340-917b3040eb99?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                   alt="Tattoo piece 2"
                   fill
                   className="object-cover contrast-110"
@@ -527,7 +527,7 @@ export default function HomePage() {
               </div>
               <div className="relative h-80 sm:h-96 md:h-[460px] rounded-full overflow-hidden border border-[#2A2726]">
                 <Image
-                  src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80"
+                  src="https://images.unsplash.com/photo-1522687533888-1078974f88ec?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                   alt="Tattoo piece 3"
                   fill
                   className="object-cover contrast-110"
@@ -536,7 +536,7 @@ export default function HomePage() {
               </div>
               <div className="relative h-80 sm:h-96 md:h-[460px] rounded-full overflow-hidden border border-[#2A2726] mt-8">
                 <Image
-                  src="https://images.unsplash.com/photo-1542385151-efd9000785a0?auto=format&fit=crop&w=800&q=80"
+                  src="https://images.unsplash.com/photo-1704999638827-cd0a7fed5c1c?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                   alt="Tattoo piece 4"
                   fill
                   className="object-cover contrast-110"
